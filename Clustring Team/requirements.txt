@@ -2,3 +2,4 @@
 
 datasets==2.14.6
 jupyterlab==4.0.8
+ipywidgets
