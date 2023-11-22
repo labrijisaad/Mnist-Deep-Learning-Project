@@ -1,5 +1,15 @@
-# Python version 3.9.0
+# Used Python version 3.9.0
 
+# Data handling
 datasets==2.14.6
+
+# Jupyter environment
 jupyterlab==4.0.8
-ipywidgets
+ipywidgets==8.1.1
+
+# Machine learning frameworks
+torch==2.1.0
+keras==2.15.0
+tensorflow==2.14.0
+
+opencv-python
